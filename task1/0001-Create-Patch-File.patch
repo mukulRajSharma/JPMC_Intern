@@ -1,0 +1,117 @@
+From eddefb6efd7e342ea8b2a1606006705087032cfd Mon Sep 17 00:00:00 2001
+From: mukul sharma <mukul02015@gmail.com>
+Date: Tue, 7 Apr 2020 11:00:26 -0400
+Subject: [PATCH] Create Patch File
+
+---
+ __pycache__/client3.cpython-37.pyc | Bin 0 -> 1104 bytes
+ client3.pyc                        | Bin 0 -> 1388 bytes
+ client_test.py                     |  27 ++++++++++++++++++++++++---
+ 3 files changed, 24 insertions(+), 3 deletions(-)
+ create mode 100644 __pycache__/client3.cpython-37.pyc
+ create mode 100644 client3.pyc
+
+diff --git a/__pycache__/client3.cpython-37.pyc b/__pycache__/client3.cpython-37.pyc
+new file mode 100644
+index 0000000000000000000000000000000000000000..5aaf3fde21820755e3ce25913fb3767aee53415c
+GIT binary patch
+literal 1104
+zcmYjQPjA~c6elH0mK{55)BLH?3s<1nj4f4$UV@<Q+9qv*0t?a>Los5Tpoq`05?OL6
+zdPqFy()7^7K7@1JSJ`17fY+XS?`fw!(n(Pg?;rW}_}=e5J?V5>1lM<O|N4E_B;<oN
+zt`^$l5mNmxGD##Yh@eh-!gJCWzLQKa>4`x4B9u%9?}%u~P&QCT(3H`Ur~Wy44=o7K
+z=??jADi*+>wSgXXW{VKaz5+I57vzFo(AhOB#r2$srISs#j@}#M1~lNtIsKK1Ww9bw
+z#Tu-^5-i^*a8ov68CGBw*7|IfoKs4UPu|$`7DTWl7rF#_yGzc!%i9-ku#VTH*ZGJw
+zk=@DH1Fc6}aa>ecS`4aMZ*6XDZp6o9P^UlU^1+{H`6o(9hU8X&oFQ!^)sK)(F<zIP
+zQEfG^OQesl(KFB4?6d7py{W%OWN?d|u_?9Il=T^A5>B@Go~q<H1D+NIuligMfR_Lg
+zB>y8V#!z!z@dGG9r5c^MOm#Y{@=|jX)Vj)!OhZ?rWIvZC7^ysixt-QWA3aR5M@`T#
+zs#Ny^6C95#4ay#yCVr62{hR1JSCy^qZ=x1Z{1?ZAY6$UBTIBKJXqd$>_I}!4*N_d?
+zHGZ-F!}{p-UYr#<l=|M?(Wz-4fZoCE_FQ%tqITouNAw!*HdP%w%k1lRS!v0Exs1w`
+zN{YkMmfmZGb4qU!1jwJ<=FdTMEIzL+JTB!V<!LD|^?j~vgLYlkJx??)U9OaUcQI#e
+zbTkp>`O3!Yp;d>-NDxs*)uOvil3|*cNizB7rG-oKJ2g)={}ut;x>JA8v34ijGpO|@
+zk&A|Y#((@|+xR<ApY^(8ajc3W-@mH>2ddU0oZE)!d<cRa)>SD&g>_Uz5xo5Q>8oE1
+z-E|m!PNYnSkR&ERuLCd?HSDCUMdK=F17lVrC{5U})G*bCDM+OWU88Fex*Tg2VPUTA
+z%Kp~Mw#BvDO-!l30LXS;%~85P#JMcs;R+tr99cx&_L<MTs2Q~)f01&Z(H3?$qBp(&
+E0WN73;Q#;t
+
+literal 0
+HcmV?d00001
+
+diff --git a/client3.pyc b/client3.pyc
+new file mode 100644
+index 0000000000000000000000000000000000000000..d1277bdf4a5c5f271208fe4140a26d1618865337
+GIT binary patch
+literal 1388
+zcmbVL&2G~`5T3Q2l!UaDwrQK&f`l-F;vz1nqWrZ5ghW+RA%q23u6Novb?nr;L9IwH
+zlq1i;190Kt;0`mJ1Q17T@9gaC%<Rm!pWW}%_3Ix$ze`~JOws&+hMpAwiar4uKqw}<
+z1EDj~T?pNY?m_5*qTLE8vR6TQ@QDJaKvk@A4zLEQ3WpAq4RQPpunt&-GXa}#zd(2%
+z(1mUTP(XJYx-)<k=w1NypzFaIupfQh*|8p8gp{(+!SNR0MM|*_;XL3J;5_@ip>h@=
+zY(lsQ;SwNybAStQSCPj8U=whWt@|D<K6!fd6<#T-kG?rjHE8ivht`>6cMsrIZh_eK
+z&l57~PkOfXB~m-a^w)wQE0Q?t6xyuaS-rCw91XBMxu2@_52xu5LNTEM6&fCm4H|lf
+z#L%W}oeD6cg##@@u0_?KIuo1s$L7M&fuRdaglF^AgP|B3h90-E>sLAR8VR{m7HW{7
+zjI&G@`_gn!=7<WFd>>~6)Y2640COy3Lrzk~Chiw$ZlvKVwJDNA!#prWKiW%`wf4(2
+z!Qa+cAEpj@_}rS^-_MHJ_#AJSM}xv(n^s_IBq&QX%D^j%9<ACo2YdM}bU-5L6g><M
+z<17uj{azA0+j+jRVle5f7>ZlDwbDPi9VA(bxw(C_e_|RGbAV=(n%J>TaH2X1aO+}$
+z-WiebF_U30V3`aAAd#EtILpM{r3)cbbJuriQ(q<_pP-QhQd%&Kw*DxVajwSto+J(e
+zY}?{}KEMJrcKl1<8+owvfAx5d0;$I~mvW7h@LfZtAv|GtFN%6`nn#hoN{bf^y^>e7
+zjE(dO`L!$hh9vClY>Ol9n&v>8kz5V;{P59+oj120`wWnoAu%YkEZw_VBC%Q<!v~K{
+zhS_Y=9$KZVi`;IO1W(bk9C-0^tNq$AL$=%YF#dbS_2zL8qsY2Z1og&lqcsspX$#)u
+zQ05{XTJ-78xq$tm?8U~OTVkxN%@R&q)wZbH%tgz<HpjF%$v=Ga$@Kpha<@l+S%&wT
+foJ5jn2>ZHKx9ZetwR*#y7prbnOp9ev7cJ)(xgjKx
+
+literal 0
+HcmV?d00001
+
+diff --git a/client_test.py b/client_test.py
+index af2bf26..dad4533 100644
+--- a/client_test.py
++++ b/client_test.py
+@@ -1,5 +1,5 @@
+ import unittest
+-from client3 import getDataPoint
++from client3 import getDataPoint, getRatio
+ 
+ class ClientTest(unittest.TestCase):
+   def test_getDataPoint_calculatePrice(self):
+@@ -8,16 +8,37 @@ class ClientTest(unittest.TestCase):
+       {'top_ask': {'price': 121.68, 'size': 4}, 'timestamp': '2019-02-11 22:06:30.572453', 'top_bid': {'price': 117.87, 'size': 81}, 'id': '0.109974697771', 'stock': 'DEF'}
+     ]
+     """ ------------ Add the assertion below ------------ """
+-
++    for quote in quotes:
++        expected = (quote['stock'], quote['top_bid']['price'], quote['top_ask']['price'], (quote['top_ask']['price'] + quote['top_bid']['price'])/2)
++        self.assertEqual (getDataPoint(quote), expected)
++   
+   def test_getDataPoint_calculatePriceBidGreaterThanAsk(self):
+     quotes = [
+       {'top_ask': {'price': 119.2, 'size': 36}, 'timestamp': '2019-02-11 22:06:30.572453', 'top_bid': {'price': 120.48, 'size': 109}, 'id': '0.109974697771', 'stock': 'ABC'},
+       {'top_ask': {'price': 121.68, 'size': 4}, 'timestamp': '2019-02-11 22:06:30.572453', 'top_bid': {'price': 117.87, 'size': 81}, 'id': '0.109974697771', 'stock': 'DEF'}
+     ]
+     """ ------------ Add the assertion below ------------ """
+-
++    for quote in quotes:
++        expected = (quote['stock'], quote['top_bid']['price'], quote['top_ask']['price'], (quote['top_ask']['price'] + quote['top_bid']['price'])/2)
++        self.assertEqual (getDataPoint(quote), expected)
+ 
+   """ ------------ Add more unit tests ------------ """
++  def test_getRatio_normalRatio(self):
++    price_a = [0,1,2,3]
++    price_b = [3,2,1,1]
++    expected = [0,0.5, 2, 3]
++    for i in range(len(price_a)):
++      self.assertEqual (getRatio(price_a[i], price_b[i]), expected[i])
++  
++  def test_getRatio_zeroDivision(self):
++    price_a = [0,1,2,99.9]
++    price_b = [0,0,0,0]
++    # getRatio should return None for all divisions by zero
++    expected = [None, None, None, None]
++    for i in range(len(price_a)):
++      self.assertIsNone (getRatio(price_a[i], price_b[i]))
++
++
+ 
+ 
+ 
+-- 
+2.24.1
+
